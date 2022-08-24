@@ -12,3 +12,5 @@ This is the link for [Youtube](https://www.youtube.com/)
 | --- | --- |
 | git init | Initialization |
 | git clone | Clone the copy from git to local machine |
+| git status | To track the status of file |
+|git add . | Add the files |
