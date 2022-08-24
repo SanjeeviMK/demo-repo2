@@ -1,13 +1,13 @@
-#### Make the text Bold
+### Make the text Bold
 **This is a bold text**
 
-#### Make the text Italic
+### Make the text Italic
 *This is a italic text*
 
-#### Links
+### Links
 This is the link for [Youtube](https://www.youtube.com/)
 
-#### Table
+### Table
 | Command | Decsription |
 | --- | --- |
 | git init | Initialization |
