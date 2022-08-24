@@ -5,7 +5,7 @@
 *This is a italic text*
 
 #### Links
-This is the link for [Youtube] (https://www.youtube.com/)
+This is the link for [Youtube](https://www.youtube.com/)
 
 #### Table
 | Command | Decsription |
